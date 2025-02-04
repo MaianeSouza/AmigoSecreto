@@ -1,8 +1,9 @@
-Amigo Secreto 🎁
+*Amigo Secreto* 🎁
 
-Este é um projeto simples em HTML, CSS e JavaScript que permite aos usuários adicionarem nomes de amigos a uma lista e realizarem um sorteio aleatório para determinar quem será o amigo secreto.
+Projeto feito no curso de lógica de programação de Alura.
+É um projeto simples que permite aos usuários adicionarem nomes de amigos a uma lista e realizarem um sorteio aleatório para determinar quem será o amigo secreto.
 
-📌 Funcionalidades
+📌 *Funcionalidades*
 
 Adicionar nomes de amigos a uma lista.
 
